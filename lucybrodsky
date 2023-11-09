@@ -1,0 +1,43 @@
+echo "# .github.io" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/lucybrodsky/.github.io.git
+git push -u origin main
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
+
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Hello, World!</title>
+</head>
+
+<body>
+    Hello, World!
+
+    <!-- Your webpage content goes here -->
+
+    <!-- Example content -->
+    <div>
+        <h1>Welcome to My Personal Website</h1>
+        <p>Check out my latest projects and blog posts!</p>
+        <img src="path_to_your_image.jpg" alt="Description of your image">
+        <p>Here is a link to <a href="https://example.com">somewhere on the internet</a> that I find interesting.</p>
+    </div>
+
+    <!-- End of example content -->
+</body>
+
+</html>
