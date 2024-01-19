@@ -59,7 +59,7 @@
 
         footer {
             padding: 10px;
-            background-color: #007BFF;
+            background-color: #64b5b5;
             color: #fff;
             position: fixed;
             bottom: 0;
